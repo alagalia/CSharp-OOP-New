@@ -1,0 +1,5 @@
+D:\SOFTUNI-C#\C#\C# OOP new\Defining Classess\03. Opinion Poll\bin\Debug\_03.Opinion_Poll.exe.config
+D:\SOFTUNI-C#\C#\C# OOP new\Defining Classess\03. Opinion Poll\bin\Debug\_03.Opinion_Poll.exe
+D:\SOFTUNI-C#\C#\C# OOP new\Defining Classess\03. Opinion Poll\bin\Debug\_03.Opinion_Poll.pdb
+D:\SOFTUNI-C#\C#\C# OOP new\Defining Classess\03. Opinion Poll\obj\Debug\_03.Opinion_Poll.exe
+D:\SOFTUNI-C#\C#\C# OOP new\Defining Classess\03. Opinion Poll\obj\Debug\_03.Opinion_Poll.pdb

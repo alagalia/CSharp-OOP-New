@@ -1,0 +1,6 @@
+D:\SOFTUNI-C#\C#\C# OOP new\Defining Classess\06.RawData\bin\Debug\06.RawData.exe.config
+D:\SOFTUNI-C#\C#\C# OOP new\Defining Classess\06.RawData\bin\Debug\06.RawData.exe
+D:\SOFTUNI-C#\C#\C# OOP new\Defining Classess\06.RawData\bin\Debug\06.RawData.pdb
+D:\SOFTUNI-C#\C#\C# OOP new\Defining Classess\06.RawData\obj\Debug\06.RawData.csprojResolveAssemblyReference.cache
+D:\SOFTUNI-C#\C#\C# OOP new\Defining Classess\06.RawData\obj\Debug\06.RawData.exe
+D:\SOFTUNI-C#\C#\C# OOP new\Defining Classess\06.RawData\obj\Debug\06.RawData.pdb

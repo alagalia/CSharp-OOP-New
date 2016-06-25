@@ -1,0 +1,6 @@
+D:\SOFTUNI-C#\C#\C# OOP new\Defining Classess\04.Company Roster\bin\Debug\04.Company Roster.exe.config
+D:\SOFTUNI-C#\C#\C# OOP new\Defining Classess\04.Company Roster\bin\Debug\04.Company Roster.exe
+D:\SOFTUNI-C#\C#\C# OOP new\Defining Classess\04.Company Roster\bin\Debug\04.Company Roster.pdb
+D:\SOFTUNI-C#\C#\C# OOP new\Defining Classess\04.Company Roster\obj\Debug\04.Company Roster.csprojResolveAssemblyReference.cache
+D:\SOFTUNI-C#\C#\C# OOP new\Defining Classess\04.Company Roster\obj\Debug\04.Company Roster.exe
+D:\SOFTUNI-C#\C#\C# OOP new\Defining Classess\04.Company Roster\obj\Debug\04.Company Roster.pdb

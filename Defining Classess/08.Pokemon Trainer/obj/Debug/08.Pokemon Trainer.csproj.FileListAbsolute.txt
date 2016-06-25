@@ -1,0 +1,6 @@
+D:\SOFTUNI-C#\C#\C# OOP new\Defining Classess\08.Pokemon Trainer\bin\Debug\08.Pokemon Trainer.exe.config
+D:\SOFTUNI-C#\C#\C# OOP new\Defining Classess\08.Pokemon Trainer\bin\Debug\08.Pokemon Trainer.exe
+D:\SOFTUNI-C#\C#\C# OOP new\Defining Classess\08.Pokemon Trainer\bin\Debug\08.Pokemon Trainer.pdb
+D:\SOFTUNI-C#\C#\C# OOP new\Defining Classess\08.Pokemon Trainer\obj\Debug\08.Pokemon Trainer.csprojResolveAssemblyReference.cache
+D:\SOFTUNI-C#\C#\C# OOP new\Defining Classess\08.Pokemon Trainer\obj\Debug\08.Pokemon Trainer.exe
+D:\SOFTUNI-C#\C#\C# OOP new\Defining Classess\08.Pokemon Trainer\obj\Debug\08.Pokemon Trainer.pdb

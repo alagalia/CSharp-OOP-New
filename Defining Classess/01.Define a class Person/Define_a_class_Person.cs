@@ -1,16 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _01.Define_a_class_Person
+﻿namespace _01.Define_a_class_Person
 {
+    using System;
     using System.Reflection;
 
-    class Program
+    public class Define_a_class_Person
     {
-        static void Main(string[] args)
+        public static void Main()
         {
             Type personType = typeof(Person);
             FieldInfo[] fields = personType.GetFields(BindingFlags.Public | BindingFlags.Instance);

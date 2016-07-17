@@ -1,11 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _06.RawData
+﻿namespace _06.RawData
 {
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
     using System.Text.RegularExpressions;
 
     public static class RawData

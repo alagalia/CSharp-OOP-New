@@ -1,11 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _07Car_Salesman
+﻿namespace _07Car_Salesman
 {
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
     using System.Text.RegularExpressions;
 
     public class CarSalesman

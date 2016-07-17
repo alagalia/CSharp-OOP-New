@@ -1,11 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _03.Opinion_Poll
+﻿namespace _03.Opinion_Poll
 {
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
     class Opinion_Poll
     {
         static void Main(string[] args)

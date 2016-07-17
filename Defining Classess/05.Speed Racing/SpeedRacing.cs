@@ -1,16 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _05.Speed_Racing
+﻿namespace _05.Speed_Racing
 {
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
     using System.Text.RegularExpressions;
 
     public static class SpeedRacing
     {
-        public static void Main(string[] args)
+        public static void Main()
         {
             int n = int.Parse(Console.ReadLine());
             List<Car> cars = new List<Car>();

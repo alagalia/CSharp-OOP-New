@@ -1,16 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _08.Pokemon_Trainer
+﻿namespace _08.Pokemon_Trainer
 {
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
     using System.Text.RegularExpressions;
 
-    class Pokemon_Trainer
+    public class Pokemon_Trainer
     {
-        static void Main()
+        public static void Main()
         {
             string line = Console.ReadLine();
             List<Trainer> trainers = new List<Trainer>();
@@ -62,7 +59,6 @@ namespace _08.Pokemon_Trainer
 
     public class Trainer
     {
-        //name, number of badges and a collection of pokemon
         public string name;
 
         public int badgets;

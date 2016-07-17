@@ -1,16 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
+﻿
 namespace _04.Company_Roster
 {
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
     using System.Text.RegularExpressions;
 
-    class Company_Roster
+    public class Company_Roster
     {
-        static void Main(string[] args)
+       public static void Main()
         {
             int n = int.Parse(Console.ReadLine());
             List<Employee> employees = new List<Employee>();

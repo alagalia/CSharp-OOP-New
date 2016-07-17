@@ -1,16 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _02.Creating_Constructors
+﻿namespace _02.Creating_Constructors
 {
+    using System;
     using System.Reflection;
 
-    class Program
+    public class Creating_Constructors
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             Type personType = typeof(Person);
             ConstructorInfo emptyCtor = personType.GetConstructor(new Type[] { });
@@ -55,7 +50,7 @@ namespace _02.Creating_Constructors
         }
 
         public Person(int age, string name)
-            :this(age)
+            : this(age)
         {
             this.name = name;
         }
